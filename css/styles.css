@@ -429,7 +429,7 @@ header .bottom span {
 
 .pb-for-player li {
   width: 85%;
-  background: #06071b;
+  background: #007748;
   margin-bottom: 1rem;
   border-radius: 5px;
   padding: 1rem 0;
@@ -442,7 +442,7 @@ header .bottom span {
 }
 
 .pb-for-player li:first-child {
-  background-color: #06071b;
+  background-color: #032719;
 }
 
 .pb-for-player li:first-child a {
